@@ -1,7 +1,7 @@
 # IHC-Project
 # Integrantes
 * Unda Miguel Carlos     
-* Carpio Usquiano Gerardo
+* Carpio Usquiano G. Michael
 * 
 *****
 # Tema a Desarrollar
