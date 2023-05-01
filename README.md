@@ -11,6 +11,7 @@
 * Registro de la Agencia y Usuarios
 * Agencia: Registro de viajes
 * Crear nuevo Registro/editar nuevo Registo creado
+* Comunicación con sus usuarios
 * Anular algún viaje
 * Usuario: Registrarse para viajar
 * Ver historial de sus viajes
