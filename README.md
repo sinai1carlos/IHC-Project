@@ -5,6 +5,17 @@
 * 
 *****
 # Tema a Desarrollaro
-
+* 
+* 
+* 
+* 
+* 
+* 
 *****
 # Caracteristicas
+* 
+* 
+* 
+* 
+* 
+* 
