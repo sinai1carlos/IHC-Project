@@ -4,7 +4,7 @@
 * 
 * 
 *****
-# Tema a Desarrollaro
+# Tema a Desarrollar
 * 
 * 
 * 
