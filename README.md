@@ -13,6 +13,7 @@ En este sistema de viajes, nuestro principal objetivo es brindarte la mejor expe
 *****
 # Caracteristicas
 Registro de las agencias y los usuarios finales a la plataforma.
+
 Agencia: 
 * Crear nuevos viajes, tours.
 * Mostrar promociones y ofertas de viajes, tours
@@ -20,6 +21,7 @@ Agencia:
 * Comunicación constante con sus usuarios
 * Modificar detalles del viaje
 * Anular algún viaje
+
 Usuario: 
 * Informacion de los viajes, tours
 * Poder estar enterado de promociones y poder acceder a ellos de los viajes o tours.
